@@ -1,0 +1,1 @@
+(self.webpackChunk_5_e_tools=self.webpackChunk_5_e_tools||[]).push([[24],{8156:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/5e-tools/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

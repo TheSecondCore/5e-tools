@@ -1,0 +1,1 @@
+(self.webpackChunk_5_e_tools=self.webpackChunk_5_e_tools||[]).push([[485],{6078:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/5e-tools/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/5e-tools/blog/tags/docusaurus"}')}}]);
