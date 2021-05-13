@@ -3,7 +3,7 @@ module.exports = {
   title: '5e Tools',
   tagline:
     'Useful D&D 5e tables for DMs and players, with custom Homebrew separated into its own section.',
-  url: 'https://thesecondcore.github.io',
+  url: 'https://TheSecondCore.github.io',
   baseUrl: '/5e-tools/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
