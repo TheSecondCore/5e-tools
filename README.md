@@ -1,6 +1,7 @@
-# Website
+# 5e-tools
+Useful D&amp;D 5e tables for DMs and players, with custom Homebrew separated into its own section.
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 2](https://docusaurus.io/).
 
 ## Installation
 
