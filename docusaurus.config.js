@@ -11,6 +11,9 @@ module.exports = {
   organizationName: 'TheSecondCore', // Usually your GitHub org/user name.
   projectName: '5e-tools', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+    },
     navbar: {
       title: '5e Tools',
       logo: {
