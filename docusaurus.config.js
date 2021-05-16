@@ -11,6 +11,7 @@ module.exports = {
   organizationName: 'TheSecondCore', // Usually your GitHub org/user name.
   projectName: '5e-tools', // Usually your repo name.
   themeConfig: {
+    colorMode: { defaultMode: 'dark' },
     navbar: {
       title: '5e Tools',
       logo: {
@@ -20,9 +21,9 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'items',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Tables',
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
@@ -36,11 +37,11 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Tables',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Tables',
+              to: '/tables/items',
             },
           ],
         },
@@ -75,10 +76,9 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          path: 'tables',
+          routeBasePath: 'tables',
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
